@@ -179,7 +179,7 @@ int main() {
     while (1) {
         printf("\t\t\t=====================================\n");
         printf("\t\t\tMusic Management System 1.0\n");
-        printf("\t\t\tAuthor : YOUR NAME\n");
+        printf("\t\t\tAuthor : Zarifa The Topper\n");
         printf("\t\t\t=====================================\n");
         printf("\t\t\t1. List all playlists\n");
         printf("\t\t\t2. Add a Playlist\n");
